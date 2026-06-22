@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://poisonboy7.github.io/SellerCut/sitemap.xml
